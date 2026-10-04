@@ -4,7 +4,7 @@ An interactive Excel dashboard that analyses student results across classes, sub
 
 ## Dashboard Preview
 
-
+![Student Performance Dashboard](dashboard.png)
 
 *The finished dashboard with five KPI cards, five charts and four slicers (Class, Term, Subject and Gender). Download the Excel file to use the slicers interactively.*
 
